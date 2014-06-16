@@ -1,5 +1,6 @@
-Developing Data Products - Peer Assesment
-=========================================
+Developing Data Products
+========================
+# Peer Assessment
 Your Shiny Application
 
 1. Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
